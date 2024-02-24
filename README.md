@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning ***~~nothing~~***.
 - 📫 How to reach me:**\--.-\--.-<\...--\....-\.----\.....\--...\----.\--...\...--\-----\....->**
 - `Who cares？`
-- [![Star History Chart](https://api.star-history.com/svg?repos=Lizaozzz/README&type=Date)](https://star-history.com/#Lizaozzz/README&Date)
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizaozzz)](https://github.com/anuraghazra/github-readme-stats)
+- [![Star History Chart](https://api.star-history.com/svg?repos=Lizaozzz/README&type=Date)](https://star-history.com/#Lizaozzz/README&Date)
 - [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lizaozzz)](https://github.com/ashutosh00710/github-readme-activity-graph)
